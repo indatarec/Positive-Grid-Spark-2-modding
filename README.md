@@ -38,7 +38,7 @@ Spark 2 is like fast and fancy hybrid car.
 Spark 40 is like old family car ... with V8 engine inside.
 
 ## Do not do perform Spark 2 firmware update via WiFi or via phone
-That's the easiest way to brick your Spark 2. Please only update via USB cable. Connection via phone app is not stable ebough and even app beeign closed in backgroud will cause Spark 2 to brick. It can be brought back to live. Please contact me via indatarec@gmail.copm and I will try to help you.
+That's the easiest way to brick your Spark 2. Please only update via USB cable. Connection via phone app is not stable ebough and even app beeign closed in backgroud will cause Spark 2 to brick. It can be brought back to live. Please contact me via indatarec@gmail.com and I will try to help you.
 
 ## There are versions of Spark 2 with better and worse audio quality cia using looper
 There are at least two versions of Spark 2 motherboard. The ones with 64MB have really bad audio quality using looper and they havo no mark like on the picture below. The better ones have 256/512 mark on them.
