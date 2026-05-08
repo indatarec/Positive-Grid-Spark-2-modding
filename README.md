@@ -11,6 +11,8 @@ Seems they organised elements a bit and they did not downgraded as much as on se
 
 To understand what can be modded and how can be improved we need to understand some of its design decisions:
 
+# Design considerations of Spark 2
+
 ## Spark 2 cannot be powered by power bank
 I see on internet posts like this:
 https://www.reddit.com/r/PositiveGridSpark/comments/1fgw2qw/higher_capacity_usb_battery_works_with_spark2/
@@ -25,17 +27,15 @@ Pictures below are from two dead Spark 2 models where users used power bank idea
 ## MCU overheating
 The only element that need to be heatsinked in Spark 2 is MCU, which is boiling hot. Unfortunately you cannot do it without voiding your warranty.
 MCU is cooled with thin piece of aluminium and slice of cheese of unknown brand. It does not transfer heat effectively. This STM32H750 chip cooling is the weakest point in a rather well made amp.
-<img width="2048" height="1152" alt="mcu" src="https://github.com/user-attachments/assets/f7479f04-f490-4f12-8480-9f3cd66bd853" />
+<img width="20height="600" alt="mcu" src="https://github.com/user-attachments/assets/f7479f04-f490-4f12-8480-9f3cd66bd853" />
 
 ## Digital audio amp
 Spark 40 with first motherboard and modded in my opinion is the best sound amp Positive Grid made yet. It has good analogue amp TPA3116, which you can drive further or even replace with 70W TPA3156. Spark 2 on the other hand uses digital ACM8625P, which is already maxed out at its specs and you cannot squeeze more out of this.
 <img width="746" height="780" alt="amps compare" src="https://github.com/user-attachments/assets/39395fd0-337c-427b-954a-6c108b0d9712" />
 
-Spark 40 was designed to be 2x50W amp and driven to be 2x20W at the end.
-Spark 2 has 51W to be used at absolute max when you use guitar input only.
+Spark 40 was designed to be 2x50W amp and driven to be 2x20W at the end. Spark 2 has 51W to be used at absolute max when you use guitar input only.
 Don't get me wrong... Spark 2 is a evolution and a good one. It has much more features and does not compromise build quality.
-Spark 2 is like fast and fancy hybrid car.
-Spark 40 is like old family car ... with V8 engine inside.
+Spark 2 is like fast and fancy hybrid car. Spark 40 is like old family car ... with V8 engine inside.
 
 ## Do not do perform Spark 2 firmware update via WiFi or via phone
 That's the easiest way to brick your Spark 2. Please only update via USB cable. Connection via phone app is not stable ebough and even app beeign closed in backgroud will cause Spark 2 to brick. It can be brought back to live. Please contact me via indatarec@gmail.com and I will try to help you.
@@ -44,4 +44,13 @@ That's the easiest way to brick your Spark 2. Please only update via USB cable. 
 There are at least two versions of Spark 2 motherboard. The ones with 64MB have really bad audio quality using looper and they havo no mark like on the picture below. The better ones have 256/512 mark on them.
 <img height="600" alt="looper" src="https://github.com/user-attachments/assets/6bb5ebd9-5c18-40a9-9f3f-026c7a69c44b" />
 
+# Spark 2 MODS
 
+## Speakers reaplce
+tbc
+
+## Opamp replace
+tbc 
+
+## other 
+tbc 
