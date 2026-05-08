@@ -42,6 +42,8 @@ Spark 40 with first motherboard and modded in my opinion is the best sound amp P
 Spark 40 was designed to be 2x50W amp and driven to be 2x20W at the end. Spark 2 has 51W to be used at absolute max when you use guitar input only.
 Don't get me wrong... Spark 2 is a evolution and a good one. It has much more features and does not compromise build quality.
 Spark 2 is like fast and fancy hybrid car. Spark 40 is like old family car ... with V8 engine inside.
+<img height="400" alt="amp" src="https://github.com/user-attachments/assets/7e2fcb34-a22e-48f3-a61f-121a099fd9d4" />
+
 
 
 ## Do not do perform Spark 2 firmware update via WiFi or via phone
@@ -65,10 +67,12 @@ If you would never use Spark app and just save and modify presets on amp, then t
 ## Speakers reaplce
 Spark 40 stock speakers (PSP00471001) in my opinion are medicore at most. If you replace them with anything in range of 20$ speakers, you will hear improvemt. Positive grid says they are angled and FRFR, they are not.
 Spark 2 speakers are slighly angled to the sides and they sound a bit better.
+<img height="400" alt="speakers" src="https://github.com/user-attachments/assets/8e588ec6-da65-4f65-8f92-091bd8ac5666" />
+
 
 ## Opamp replace
 Spark 2 uses same 3Peak TP2582 opamp as Spark 40, but in more popular SOP8 package so a lot of good can be done here.
-<img width="1451" height="900" alt="opamp_spk2" src="https://github.com/user-attachments/assets/3428603e-eb87-4b70-bb0b-7df0eca5e318" />
+<img height="400" alt="opamp_spk2" src="https://github.com/user-attachments/assets/3428603e-eb87-4b70-bb0b-7df0eca5e318" />
 
 
 ## other 
