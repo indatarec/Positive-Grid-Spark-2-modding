@@ -67,6 +67,7 @@ If you would never use Spark app and just save and modify presets on amp, then t
 ## Speakers reaplce
 Spark 40 stock speakers (PSP00471001) in my opinion are medicore at most. If you replace them with anything in range of 20$ speakers, you will hear improvemt. Positive grid says they are angled and FRFR, they are not.
 Spark 2 speakers are slighly angled to the sides and they sound a bit better.
+
 <img height="400" alt="speakers" src="https://github.com/user-attachments/assets/8e588ec6-da65-4f65-8f92-091bd8ac5666" />
 
 
