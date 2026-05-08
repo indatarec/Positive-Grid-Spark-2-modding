@@ -24,6 +24,7 @@ None of Spark models can negotiate input power voltage. It does not have a elect
 SPARK 2 / 40 cannot be powered by any power bank regardless what specification of power bank says. Spark official battery is a safe way of powering amp and you do not need to worry about using it.
 
 Pictures below are from two dead Spark 2 models where users used power bank idea. They both are fine now, I fixed them.
+
 <img height="400" alt="burn2" src="https://github.com/user-attachments/assets/b5cfa247-c5d2-48e6-a6d8-baaf06257233" />
 <img height="400" alt="burn1" src="https://github.com/user-attachments/assets/c205614b-53d5-4b5b-b205-ef0f77ccde84" />
 
