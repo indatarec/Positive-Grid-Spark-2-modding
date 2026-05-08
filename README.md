@@ -49,7 +49,7 @@ The MCU is cooled using a thin aluminum plate and a low-quality thermal pad, whi
 
 ## Digital Audio Amplifier
 
-In my opinion, the original Spark 40 with the first motherboard revision and a few mods is still the best-sounding amp Positive Grid has made. It uses the analogue TPA3116 amplifier, which has additional headroom and can even be replaced with a 70W TPA3256.
+In my opinion, the original Spark 40 with the first motherboard revision and a few mods is still the best-sounding amp Positive Grid has made. It uses the analogue TPA3116 amplifier, which has additional headroom and can even be replaced with a 70W TPA3156.
 
 The Spark 2, on the other hand, uses the digital ACM8625P amplifier, which already operates close to its maximum specifications. There is very little room for additional performance tuning.
 
