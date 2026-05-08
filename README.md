@@ -5,8 +5,8 @@ Spark 2 is improved by a lot comparing to Spark 40 (line out, better speakers, a
 "Spark40_GEN2_Main_1.5 2024-06-07 ECB01787" mainboard 
 "Spark40_GEN2_Main_2.1 2024-11-02 ECB02117" mainboard - top one on picture below.
 <img width="2048" height="1152" alt="two_spark2_mobos" src="https://github.com/user-attachments/assets/59ac60f5-35a4-40da-abaa-bcd529fa382b" />
-<img height="600" alt="spkmobo1a" src="https://github.com/user-attachments/assets/69ea26a8-1f72-44b9-a06a-3cf4203a8211" />
-<img height="600" alt="spkmobo2a" src="https://github.com/user-attachments/assets/3176d4f5-ca7d-4797-af78-e275d2dc22a2" />
+<img height="400" alt="spkmobo1a" src="https://github.com/user-attachments/assets/69ea26a8-1f72-44b9-a06a-3cf4203a8211" />
+<img height="400" alt="spkmobo2a" src="https://github.com/user-attachments/assets/3176d4f5-ca7d-4797-af78-e275d2dc22a2" />
 
 Seems they organised elements a bit and they did not downgraded as much as on second revision of Spark 40 motherboards.  
 
@@ -24,15 +24,15 @@ None of Spark models can negotiate input power voltage. It does not have a elect
 SPARK 2 / 40 cannot be powered by any power bank regardless what specification of power bank says. Spark official battery is a safe way of powering amp and you do not need to worry about using it.
 
 Pictures below are from two dead Spark 2 models where users used power bank idea. They both are fine now, I fixed them.
-<img width="960" height="540" alt="burn2" src="https://github.com/user-attachments/assets/b5cfa247-c5d2-48e6-a6d8-baaf06257233" />
-<img width="960" height="540" alt="burn1" src="https://github.com/user-attachments/assets/c205614b-53d5-4b5b-b205-ef0f77ccde84" />
+<img height="400" alt="burn2" src="https://github.com/user-attachments/assets/b5cfa247-c5d2-48e6-a6d8-baaf06257233" />
+<img height="400" alt="burn1" src="https://github.com/user-attachments/assets/c205614b-53d5-4b5b-b205-ef0f77ccde84" />
 
 
 ## MCU overheating
 The only element that need to be heatsinked in Spark 2 is MCU, which is boiling hot. Unfortunately you cannot do it without voiding your warranty.
 MCU is cooled with thin piece of aluminium and slice of cheese of unknown brand. It does not transfer heat effectively. This STM32H750IBK6 chip cooling is the weakest point in a rather well made amp.
-<img height="600" alt="mcu" src="https://github.com/user-attachments/assets/f7479f04-f490-4f12-8480-9f3cd66bd853" />
-<img height="600" alt="mcu2" src="https://github.com/user-attachments/assets/a433cd1b-b831-4064-9fa0-1f71c6f08ebd" />
+<img height="400" alt="mcu" src="https://github.com/user-attachments/assets/f7479f04-f490-4f12-8480-9f3cd66bd853" />
+<img height="400" alt="mcu2" src="https://github.com/user-attachments/assets/a433cd1b-b831-4064-9fa0-1f71c6f08ebd" />
 
 
 ## Digital audio amp
@@ -49,9 +49,10 @@ Spark 2 has overcomplicated ESP32 and MCU flashing procesure. If you upgrade fir
 That's the easiest way to brick your Spark 2. Please only update via USB cable. Connection via phone app is not stable ebough and even app beeign closed in backgroud will cause Spark 2 to brick. It can be brought back to live. Please contact me via indatarec@gmail.com and I will try to help you.
 
 
-## There are versions of Spark 2 with better and worse audio quality cia using looper
-There are at least two versions of Spark 2 motherboard. The ones with 64MB have really bad audio quality using looper and they havo no mark like on the picture below. The better ones have 256/512 mark on them.
-<img height="600" alt="looper" src="https://github.com/user-attachments/assets/6bb5ebd9-5c18-40a9-9f3f-026c7a69c44b" />
+## There are versions of Spark 2 MCU boards with better and worse audio quality using looper
+There are at least two versions of Spark 2 MCU board. The ones with 64MB have really bad audio quality using looper and they havo no mark like on the picture below. The better ones have 256/512 mark on them.
+
+<img height="400" alt="looper" src="https://github.com/user-attachments/assets/6bb5ebd9-5c18-40a9-9f3f-026c7a69c44b" />
 
 
 ## Buffer overflow issue
