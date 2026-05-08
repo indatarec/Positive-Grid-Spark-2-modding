@@ -74,6 +74,7 @@ Spark 2 speakers are slighly angled to the sides and they sound a bit better.
 
 ## Opamp replace
 Spark 2 uses same 3Peak TP2582 opamp as Spark 40, but in more popular SOP8 package so a lot of good can be done here.
+
 <img height="400" alt="opamp_spk2" src="https://github.com/user-attachments/assets/3428603e-eb87-4b70-bb0b-7df0eca5e318" />
 
 
