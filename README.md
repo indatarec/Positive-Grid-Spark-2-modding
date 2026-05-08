@@ -5,8 +5,8 @@ Spark 2 is improved by a lot comparing to Spark 40 (line out, better speakers, a
 "Spark40_GEN2_Main_1.5 2024-06-07 ECB01787" mainboard 
 "Spark40_GEN2_Main_2.1 2024-11-02 ECB02117" mainboard - top one on picture below.
 <img width="2048" height="1152" alt="two_spark2_mobos" src="https://github.com/user-attachments/assets/59ac60f5-35a4-40da-abaa-bcd529fa382b" />
-<img width="2048" height="1152" alt="spkmobo1a" src="https://github.com/user-attachments/assets/69ea26a8-1f72-44b9-a06a-3cf4203a8211" />
-<img width="2048" height="1152" alt="spkmobo2a" src="https://github.com/user-attachments/assets/3176d4f5-ca7d-4797-af78-e275d2dc22a2" />
+<img height="600" alt="spkmobo1a" src="https://github.com/user-attachments/assets/69ea26a8-1f72-44b9-a06a-3cf4203a8211" />
+<img height="600" alt="spkmobo2a" src="https://github.com/user-attachments/assets/3176d4f5-ca7d-4797-af78-e275d2dc22a2" />
 
 Seems they organised elements a bit and they did not downgraded as much as on second revision of Spark 40 motherboards.  
 
