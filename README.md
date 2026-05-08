@@ -128,7 +128,7 @@ There is significant room for improvement here.
 
 ## 80W mod
 
-The Spark 2 uses ACM8625P which has drop in replamenet with 80W ACM8628
+The Spark 2 uses ACM8625P which has drop in replacement with 80W ACM8628. Not tested yet.
 
 <img width="839" height="814" alt="amp 2 mod" src="https://github.com/user-attachments/assets/c9b89f9d-2d25-4bcb-8058-d0f3926485f0" />
 
