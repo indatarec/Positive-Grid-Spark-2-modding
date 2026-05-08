@@ -51,7 +51,7 @@ The MCU is cooled using a thin aluminum plate and a low-quality thermal pad, whi
 
 In my opinion, the original Spark 40 with the first motherboard revision and a few mods is still the best-sounding amp Positive Grid has made. It uses the analogue TPA3116 amplifier, which has additional headroom and can even be replaced with a 70W TPA3156.
 
-The Spark 2, on the other hand, uses the digital ACM8625P amplifier, which already operates close to its maximum specifications. There is very little room for additional performance tuning.
+The Spark 2, on the other hand, uses the digital ACM8625P amplifier, which already operates close to its maximum specifications. There is very little room for additional performance tuning without replacing it with something else.
 
 <img width="746" height="780" alt="amps compare" src="https://github.com/user-attachments/assets/39395fd0-337c-427b-954a-6c108b0d9712" />
 
@@ -123,6 +123,15 @@ The Spark 2 uses the same 3Peak TP2582 op-amp found in the Spark 40, but in the 
 There is significant room for improvement here.
 
 <img height="400" alt="opamp_spk2" src="https://github.com/user-attachments/assets/3428603e-eb87-4b70-bb0b-7df0eca5e318" />
+
+---
+
+## 80W mod
+
+The Spark 2 uses ACM8625P which has drop in replamenet with 80W ACM8628
+
+<img width="839" height="814" alt="amp 2 mod" src="https://github.com/user-attachments/assets/c9b89f9d-2d25-4bcb-8058-d0f3926485f0" />
+
 
 ---
 
