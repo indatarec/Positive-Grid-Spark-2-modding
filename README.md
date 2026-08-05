@@ -106,7 +106,7 @@ This takes a long time to happen under normal use, but it is still a firmware is
 
 ## Speaker Replacement
 
-In my opinion, the stock Spark 40 speakers (`PSP00471001`) are mediocre at best. Replacing them with almost any decent ~$20 speaker pair results in a noticeable improvement.
+In my opinion, the stock Spark 2 speakers (`PSP01276001 24072003715`) are mediocre at best. They are also unusial 12.5cm size. Replacing them with almost any decent ~$20 speaker pair results in a noticeable improvement.
 
 Positive Grid markets the speakers as angled and FRFR, but they are not truly FRFR speakers.
 
